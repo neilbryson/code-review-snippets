@@ -1,7 +1,7 @@
 var count = 0;
 
 export const Counter = () => {
-  if ((count = 100)) count = 0;
+  if (count = 100) count = 0;
 
   const onInc = (): void => {
     count++;
